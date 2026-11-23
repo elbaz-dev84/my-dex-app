@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeskMode</string>
+    <string name="search_hint">ابحث عن تطبيق…</string>
+    <string name="open_window">فتح في نافذة</string>
+    <string name="open_full">فتح بملء الشاشة</string>
+    <string name="pin">تثبيت في شريط المهام</string>
+    <string name="unpin">إزالة من شريط المهام</string>
+    <string name="app_info">معلومات التطبيق</string>
+    <string name="launch_failed">تعذّر فتح التطبيق</string>
+    <string name="freeform_hint">لتفعيل النوافذ العائمة: خيارات المطوّر ← تفعيل نوافذ الشكل الحر (Freeform windows)</string>
+</resources>

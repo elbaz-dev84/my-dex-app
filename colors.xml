@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#3E91FF</color>
+    <color name="taskbar">#E61B1C20</color>
+    <color name="panel">#F2202126</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="field">#33FFFFFF</color>
+</resources>
